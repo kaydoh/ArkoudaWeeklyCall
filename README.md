@@ -1,9 +1,13 @@
 # ArkoudaWeeklyCall
 Info and slides used for the weekly Arkouda zoom call
 
-This is a 30min call every Tuesday at 1pm ET to discuss Arkouda algorithms, code, and methods.
+The meeting is a 30min call every Tuesday at 1pm ET to discuss Arkouda algorithms, code, and methods.
 
 This repo will probably hold PDFs mostly.
+
+We will be taking requests for subjects to talk about as long as it hast to do with Arkouda... ;-)
+
+Submit an issue with your requested subject.
 
 # Zoom Invite
 
