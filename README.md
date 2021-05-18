@@ -1,5 +1,5 @@
 # ArkoudaWeeklyCall
-Info and slides used for the weekly Arkouda zoom call
+### Info and slides used for the weekly Arkouda zoom call
 
 30min call every Tuesday at 1pm ET to discuss Arkouda algorithms, code, and methods.
 
