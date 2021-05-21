@@ -5,7 +5,7 @@
 
 This repo will probably hold PDFs mostly.
 
-We will be taking requests for subjects to talk about as long as it hast to do with Arkouda... ;-)
+We will be taking requests for subjects to talk about as long as it has to do with Arkouda... ;-)
 
 Submit an issue with your requested subject.
 
