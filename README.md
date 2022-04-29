@@ -1,7 +1,11 @@
 # ArkoudaWeeklyCall
+
 ### Info and slides used for the weekly Arkouda zoom call
 
 30min call every Tuesday at 1pm ET to discuss Arkouda algorithms, code, and methods.
+
+**we will post topic or meeting cacelation notices in the gitter channel**
+https://gitter.im/ArkoudaProject/community
 
 This repo will probably hold PDFs mostly.
 
