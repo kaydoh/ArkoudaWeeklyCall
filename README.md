@@ -1,7 +1,7 @@
 # ArkoudaWeeklyCall
 ### Info and slides used for the weekly Arkouda zoom call
 
-30min call every Tuesday at 1pm ET to discuss Arkouda algorithms, code, and methods.
+30min call every Monday at 10 am ET to discuss Arkouda algorithms, code, and methods.
 
 This repo will probably hold PDFs mostly.
 
@@ -11,13 +11,12 @@ Submit an issue with your requested subject.
 
 # Zoom Invite
 
-Michael Merrill is inviting you to a scheduled Zoom meeting.
+Bob Nine is inviting you to a call
 
-Topic: Arkouda Weekly Zoom Meeting
-Time: recurring meeting Tuesdays @ 1pm ET
+Topic: Arkouda Weekly Meeting
+Time: recurring meeting Mondays @ 10am ET
 
-Join Zoom Meeting
-https://us04web.zoom.us/j/77717000423?pwd=TGlmaUN3L2hScFovTy9NRXNnUTE5dz09
+Teams meeting
 
-Meeting ID: 777 1700 0423
-Passcode: kjM3WS
+Meeting ID: 872-239-6004
+Passcode: 97917818
