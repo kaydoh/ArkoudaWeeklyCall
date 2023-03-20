@@ -1,1 +1,9 @@
-Attendees : kaydoh. 
+Bob N kicked off the meeting.
+
+Ethan D.  Last week - Wrapped up i/o work including segArray work, except for strings, with support for Parquet
+          This week - Focus on Benchmarks. Fixing PRs that are not running CI - issue with running across separate forks.
+                      Supporting Josh on dataframe Benchmark issue.  Target is initial implementation of new benchmarks.
+          
+Pierce H.  Last week -  Users accessed the latest release of BigInt, and they discovered a bug. Put up a PR to fix issue with Operations = in BigInt.
+                        Users require groupBy aggregation in BigInt. Need OR MAX aggregation first.
+           This week - Focus on fixing bugs with BigInt aggregation.
