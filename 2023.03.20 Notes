@@ -7,3 +7,23 @@ Ethan D.  Last week - Wrapped up i/o work including segArray work, except for st
 Pierce H.  Last week -  Users accessed the latest release of BigInt, and they discovered a bug. Put up a PR to fix issue with Operations = in BigInt.
                         Users require groupBy aggregation in BigInt. Need OR MAX aggregation first.
            This week - Focus on fixing bugs with BigInt aggregation.
+           
+Jake T.   Last week - Reviewed Benchmarks with Josh and Ethan. Examined RST files on sphinx to fix API. 
+          This week - Finish vestorScalar use cases.
+          
+Josh M.   Last week - Made updates to use the pytest libraries for Benchmarks.  Working to resolve issues with dataframe.    
+          This week - Focus on creating Benchmarks with as much coverage as possible
+          
+Chris H.  Last week -  Translating code into Chapel. Review groupBy with help from Pierce.
+          This week -  Continue moving into Chapel.
+          
+Bob N.    Question - Ben and Elliot - Are you familiar with what we are trying to do with Benchmarks? including our integration with UMKA?
+           Answer -  Yes
+           
+Ben      Last week -  Continued updates to BigInt for Chapel 1.30
+         This week - Wrapping up new Chapel 1.30 release.
+          
+Elliot   Last week - Fixing a bug in BigInt for Chapel 1.30.   
+         This week - Wrapping up new Chapel 1.30 release.
+         
+Dan M.   Las week - 
