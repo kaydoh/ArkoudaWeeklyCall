@@ -27,7 +27,7 @@ Ethan - Finished benchmark stuff with Josh last week.  Corrected edge cases in i
        
  David - Good meeting on property graphs. Included operation organization and algoritm discussions.
         
-Chauhan(?) - Trying to use cloud resources.  Experiment with new machine via Kandor? environment (did not work)  - Tried to install Slurm for cluster.  
+zhihuidu - Trying to use cloud resources.  Experiment with new machine via Kandor? environment (did not work)  - Tried to install Slurm for cluster.  
           Working with Oliver doing some tests on his design.
         
  Oliver - Worked on graph structure. Worked on generating a genral width function. General read/write functions for graph. 
