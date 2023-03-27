@@ -1,0 +1,47 @@
+Bob Nine kicked off meeting.
+
+Ethan - Finished benchmark stuff with Josh last week.  Corrected edge cases in i/o that users requested.  Fixed a segmentation issues reading seqArrays and Strings - improved locality and performance. 
+        Met with users last week and sent email to Bob.  Couple of issues not able to replicate.  I/O logging and other issues with output that needs fixing. 
+        New release done on Friday.
+        New features will be forward focus.  
+        - Bob - Good to get the basic benchmarking.  Still try workflow benchmarking.  
+         -Ethan - Users do not want to release exact workflow. 
+         -Bob - Come up with a generic EDA workflow.
+         - Ethan - sounds good.  
+        
+ Pierce - Cleaning up maxBits both server and client side.   Not yet merged.  Working on new requirements.  cut the relese last week.
+        
+ Jake - Working ona bug fix.  Focus on bew issues going forward.
+        
+ Josh - Got 80% benchmarks updated.  Working on pytest updates.
+        
+ Chris - Sparse matrix integrated in python and chapel.  
+        Bob - Planning on a benchmark?
+        Chris-yes
+        
+ Eliot - Finished groupBy and Chapel release notes. Released Chapel 1.30.
+        
+ Michael - talked about property graphs with Arachne folks.  Preliminary review of past.  ATI review coming up soon. 
+        Australian visitor coming in next week-user.speding a day with Teresa
+        Bob - chapel face to face review
+       
+ David - Good meeting on property graphs. Included operation organization and algoritm discussions.
+        
+Chauhan(?) - Trying to use cloud resources.  Experiment with new machine via Kandor? environment (did not work)  - Tried to install Slurm for cluster.  
+          Working with Oliver doing some tests on his design.
+        
+ Oliver - Worked on graph structure. Worked on generating a genral width function. General read/write functions for graph. 
+          Implementing inital version of property graph structure. working on a filtering functionnext.
+        
+Huromi - Any questions? How does workflow reduce the data set? 
+        Bob - heard 24% reduction by eliminating noise and scanning.
+        Mike - It is a wide spectrum at how much it gets reduced.  From structured to summary data. Summary reduces data greatly. no data is too big for arkouda
+        Huromi/Mike/Ethan - Step one is a transition to a file format than can be used.  
+        Huromi - Is working with Fabric attached memory in large data sets that get attached incrementally.
+        Bob - Arkouda is about bringing the data ocean into a data lake size.
+
+Kay  - nothing new
+        
+Bob/Ethan  - Perhaps get monthly meeting on the books routinely with customer, or invite them the Tuesdays. 
+              Example issue: HDF5 bloats logs issue is an example.  Could be ETL issue. 
+
