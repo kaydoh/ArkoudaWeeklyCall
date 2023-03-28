@@ -27,13 +27,13 @@ Ethan - Finished benchmark stuff with Josh last week.  Corrected edge cases in i
        
  David - Good meeting on property graphs. Included operation organization and algoritm discussions.
         
-zhihuidu - Trying to use cloud resources.  Experiment with new machine via Kandor? environment (did not work)  - Tried to install Slurm for cluster.  
+zhihuidu - Trying to use cloud resources.  Experiment with new machine via conda environment (did not work)  - Tried to install Slurm for cluster.  
           Working with Oliver doing some tests on his design.
         
  Oliver - Worked on graph structure. Worked on generating a genral width function. General read/write functions for graph. 
           Implementing inital version of property graph structure. working on a filtering functionnext.
         
-Huromi - Any questions? How does workflow reduce the data set? 
+Huromi(sp?) - Any questions? How does workflow reduce the data set? 
         Bob - heard 24% reduction by eliminating noise and scanning.
         Mike - It is a wide spectrum at how much it gets reduced.  From structured to summary data. Summary reduces data greatly. no data is too big for arkouda
         Huromi/Mike/Ethan - Step one is a transition to a file format than can be used.  
