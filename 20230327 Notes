@@ -33,7 +33,7 @@ zhihuidu - Trying to use cloud resources.  Experiment with new machine via conda
  Oliver - Worked on graph structure. Worked on generating a genral width function. General read/write functions for graph. 
           Implementing inital version of property graph structure. working on a filtering functionnext.
         
-Huromi(sp?) - Any questions? How does workflow reduce the data set? 
+Harumi - Any questions? How does workflow reduce the data set? 
         Bob - heard 24% reduction by eliminating noise and scanning.
         Mike - It is a wide spectrum at how much it gets reduced.  From structured to summary data. Summary reduces data greatly. no data is too big for arkouda
         Huromi/Mike/Ethan - Step one is a transition to a file format than can be used.  
