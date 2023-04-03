@@ -1,0 +1,44 @@
+Bob Nine kicked off the meeting
+
+Ethan D - Last week had lots of user request.  Next release is in 2 weeks - perhaps by Friday, April 7.  Some new functionalities. Some bug fixes.  
+           SeqArray reindexing issues debug at a large data size - 10 to the 8th - log writing issues. Went to a single locale was 74 seconds- now it is 4 seconds.
+           Added a new feature. -Filters for seqArrays.  Remove empty seqments from the filter.  Bug with writing HPF5 to a single file would stall.  
+           Went from 28 seconds to 1 second. Bug in parquet code for multicolumn - added a check.  
+           Feature for tagging wth an iterger value of the file of origin as a categorical - a low level hash map type of indexing.  
+           Fix issue with bitmap of bigint 32-bit case conversion issue to be sure the high bit is in the 32-bit slot.
+           Parquet files do not have a concept of 16-bit integer.  Still researching. Out omn Thursday and Friday next week.
+           
+Pierce H - Added error handling.  Dug into .date slowness.  Fixed bug, and examined other date time slowness. Dis some performance debugging.  Elliot helped.  I was a Chapel issue.
+            PR for printing dataFrame indexing command.  Ak.ware strings  Working with categoricals and seStrings in the future.  
+            
+Jake T - Fixed some bugs and documentation.
+
+Josh M - Updated pytest.  Waiting for review and merge.  
+
+Chris H - Coming into the office tomorrow.  Planning on presenting at chuiw
+
+John Y - Got argo workflow on arkouda.  Can be launched on the fly.  PR to enhance arkouda metrics.  
+         Next week will add Prometheseus to contrib project.  Started on arkouda on kubernetes vs slurm.  
+         
+Elliot - Prepping for Chapel review.  offline next week.         
+ 
+ Ben - working on nightly failures.
+ 
+ Mike O - tech reviews for technical labs.  Presentations for graphfest.
+ 
+ David - keynote at HPC user forum on April 19.  chiuw and graphfest presentations
+ 
+ Du - New methods for reducing edges via inter and intra processor counting.  Optimizing property graphs.
+ 
+ Oliver - Developing property graph storage methods for label.
+ 
+ Hourmi - John can you explain kubernetes vs slurm via argo workl=flow?  
+          John No - just using batch commands.  
+          What are you Comparing?
+          John - testing via Jupyter Notebooks - using the same notebook - access arkouda on any kubernetes construct.
+          
+Kay - Taking the weekly minutes and posting them to ArkoudaWeeklyCall.
+
+Dan - Shared data structures to support arbitrary data types.  Out of the office tomorrow.
+ 
+ Bob on spring break this week.
