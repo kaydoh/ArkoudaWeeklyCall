@@ -28,11 +28,11 @@ Elliot - Prepping for Chapel review.  offline next week.
  
  David - keynote at HPC user forum on April 19.  chiuw and graphfest presentations
  
- Du - New methods for reducing edges via inter and intra processor counting.  Optimizing property graphs.
+ Dr. Du - New methods for reducing edges via inter and intra processor counting.  Optimizing property graphs.
  
  Oliver - Developing property graph storage methods for label.
  
- Hourmi - John can you explain kubernetes vs slurm via argo workl=flow?  
+ Harumi - John can you explain kubernetes vs slurm via argo workl=flow?  
           John No - just using batch commands.  
           What are you Comparing?
           John - testing via Jupyter Notebooks - using the same notebook - access arkouda on any kubernetes construct.
