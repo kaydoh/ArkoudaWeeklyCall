@@ -4,7 +4,7 @@ Ethan D asked for Bob to hang on after the meeting to discuss logistics.  Pierce
 
 Ethan D - last week cut a release on Friday.  Lots of bug fixes.  Update to improve reading from parquet to permit read of full batch.
           Fixed preprocessing issues to provide better flexibility. Added export uint function.  fixed broken links in README. Fixed CI issue.
-          Cleaned up roque references in seqArray. Fixed a deprecation warning. Working file i/o updates. Out Thursday and Friday.
+          Cleaned up rogue references in seqArray. Fixed a deprecation warning. Working file i/o updates. Out Thursday and Friday.
           
 Jake T - Fixing bugs.  Looking at RST files.         
 
@@ -16,23 +16,24 @@ John - Fixed bug for Pierce on logic error on memory count for logging.  Improve
        
 Bob - Let's white board this tomorrow. 
 
-Mike O - ASd folks here - meet and greet. Available to talk to Chris about his abstract.  Spoke to potential candidate.
+Mike O - Visitors here - meet and greet. Available to talk to Chris about his abstract.  Spoke to potential candidate.
 
 Chris - Working with Pierce on an array and his abstract.  No title yet.
 
-Dan - Nothing substantial - a bit sick.  Back i on Thursday.
+Dan - Nothing substantial - a bit sick.  Back in on Thursday.
 
 David - Busy on abstracts for graphfest. Paper on parallel processing.  Integrating with new versions.
 
-Dr. Du - Did comparsons of new method for model with horizontal edges.  Did not work well.  Connecting the compnent algorithm 
-     Impement GraphBlast, but it was difficult to interface.  
+Dr. Du - Did comparisons of new method for model with horizontal edges.  Did not work well.  Connecting the compnent algorithm 
+     Implementing GraphBlast, but it was difficult to interface.  
      
 Oliver - added new code to store associative domain to include reverse mapping of nodes.  Ran into issues with binary search. Fixed bug in DAG.      
 
 Hourimi - Question for John - possible may not get the number of processors when you do Slurm?  
                        John - sure - my results are very experimental and not releasable.  
-          Question for Josh - impempenting interjoins?
+          Question for Josh - implempenting interjoins?
                       Josh - yes. Requested by the user as a nice to have.
+
 Josh - Will have documentation up for benchmarks
 
 Bob - No Wednesday meeting.
