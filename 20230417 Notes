@@ -1,0 +1,48 @@
+Bob Nine kicked off the call.
+
+Interesting program review last week - thanks to all who attended.
+
+Ethan - short week - looking at ability to overwrite columns in HDF5 - trying to understand why it is not releasing memory.
+
+Pierce - short week - set up a PR for new groupBy aggregations on BigInt. Some HPF5 work.  
+
+Jake - last week finished comments - Writing messaging documentation.  Working on string attributes.
+
+Josh - Got interjoins on strings working.  SegString performance issue resolved.  Working on distance algorithms for dtaframes.
+
+John - testing of kubernetes on slurm and kubernetes.  Kubernetes had better performance.  Tried baremetal and EC2 VMs on AWS.
+       Upgraded the Helm charts in his private repo.  NJIT has an interest in this as well.  Ported over RM to BEARS-R-US.  Testing is more aligned to expectations now.  
+       Will wrap up this today. Will work with Kevin Carr to post test reults.  This week prototyping argo.
+     
+       
+Bob - Oliver is doing kubernetes - poc will be John Yost.
+
+Chris - working on matrix algorithm. Too Big to Fail is his catch title.
+
+Dan - figuring out metaprogramming for python. Found a great parser. Using Mason build system with custom complies. Started a CE in algebra.
+
+Mike O -Visitor meet and greet and arkouda demos.  Getting ready for graphfest.
+
+Ben - Writing a paper for CHUIW. Working on multi-dimensional arrays. Bob - looking at the API for Multi-dimensional arrays via a standard.
+
+Ethan - Please keep the team in the loop on the multi-dimensional arrays progress.
+
+Dr. Du - David is trapped on the subway.  Working on performance algorithms.  Using the Connected package for graphs.  
+         2 parts - Assembly (Logistics) and Finish parts of the graph.  Major update.
+         
+Oliver - Finished internal property implementation on graphs. Doing property graph filters.  Supporting a new user.  
+
+Haromi - Questions - John, on Kubernetes vs Slurm - were results similar or different?  
+                     John-  on AWS kubernetes outperforms slurm on VMs.  Testing on home bare metal set up - and the performance is similar.  
+         Questions - Dan, what do you mean by metaprogramming?  Is this rules?  Dan - using python to metaprogram C code.
+                          Like Mike Merrill's user-define functions? - 
+                     Dan - No.  It is more like the auto-generate of Chapel in order to be type generic.                    
+                          What was the parser - 
+                     Dan - pyC parser.
+
+
+Kay - Where do we want to put last weeks Notes?  
+      Bob -- set up a privately shared with this group low side spot.
+
+
+
