@@ -1,2 +1,52 @@
 Meeting kicked off by Bob Nine
 
+Ethan - Wrapping up groupBys.  Planning snapshotting. Working with Josh.
+
+Bob - Ray API? Jake and Pierce looking at this.
+
+Ben Split it into a separate library.  
+
+Bob - what are your impressions? Is it a heavy lift?
+
+Pierce - Yes it is a heavy lift.  
+
+Bob - What will be involved with multi-dimensional arrays.
+
+Pierce - Wrapping up a bug - adding a Python API and filling in gaps.
+
+Jake - out of town.  Updating strings.
+
+Josh - Getting strings into categoricals.  Focus this week on performance improvements. Much better results.
+
+Chris - Wrapped up sparse marix in chapel.  Transferred.  Working on presentation for CHUIW.
+
+John - Last week completed perfomance studies on evo.  Deploying on bare metal culusters. Upgraded - latest version of Chapel SMP server host fails. 
+       Argo events working. Reviews for Resource Management.
+
+Kay - Offered to help move both John and Chris data.
+
+Ben - Working with Pierce.
+
+Elliot - Nothing for me.
+
+Bob - are we ready to run the benchmarks with Kevin Carr.  - Get it started Ethan
+
+Mike - Submitted GraphFest abstracts.  Working with Arachne folks.
+
+David - Lots of updates - Spoke at the HPC user forum.  Large audience - and lots of discussion on arkouda.  
+        Tufts keynote speaker - medical school was interested. Submitting to GraphFest and CHUIW.
+        
+        Received a Cloudbase award from NSF.  Next year contracting is going well. No Oliver today.  His notes - solution on environment building.
+        Has implemented a graph filtering mechanism.
+        
+Dr. Du - Used graphBlast to make a 20% performane improvement.
+
+Hourimi - Questions - Sounds like there is interest on SQL interface -Ethan.
+            Ethan - these are in general internal arkouda functions. We are not looking at SQL today.
+            
+            Bob - no SQL requirements now.
+            
+            
+        
+        
+
